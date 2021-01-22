@@ -1,2 +1,2 @@
 # todo-app
-my simple todo
+<a href="https://clevercoader.github.io/todo-app/" > live site </a>
